@@ -4,7 +4,7 @@ FROM gstark/ubuntu-for-rails
 ### lpt
 ### docker build .
 ###
-### docker build -t faroe228/rails1:latest .
+### docker build -t faroe228/rails2:latest .
 ###
 
 MAINTAINER Gavin Stark "gstark@realdigitalmedia.com"
