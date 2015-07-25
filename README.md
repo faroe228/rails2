@@ -12,6 +12,7 @@ Adds in ruby, nginx, build-essentails, and other useful utilities
     # above line is so we can access from host machine web browser.
 
 Settings for VirtualBox boot2docker-vm:
+    
     Settings/Network/Adapter1
         Attach to: NAT
         
