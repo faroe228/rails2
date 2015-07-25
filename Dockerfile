@@ -26,6 +26,6 @@ RUN apt-get install --yes --no-install-recommends sqlite3 libsqlite3-dev
 
 RUN gem install rails
 
-RUN rails new blog && cd blog
+# RUN rails new blog && cd blog
 
 
